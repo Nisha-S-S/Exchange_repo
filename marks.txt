@@ -2,7 +2,6 @@ Name            Marks
 -Ajit Deodhar    100
 -Swapnali Rao    95
 -Richard Johnson 92
--Neil Horton     87
--Marilyn Roe     65
-
+-Mark Hansen	 80
+-Robert Jackson  90
 
